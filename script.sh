@@ -4,7 +4,7 @@
 ### MITRE ID: T1531                         ###
 ### Test steps:                             ###
 ###      Creating User                      ###
-###      Adding him to the Wheel gropu      ###
+###      Adding him to the Wheel gropup     ###
 ###      Deleting user                      ###     
 ###############################################
 
