@@ -1,12 +1,12 @@
 #!/bin/bash
-#######################################
-### Author: Martin Hradsky          ###
-### MITRE ID: T1531                 ###
-### Test steps:                     ###
-###      Creating User              ###
-###      Adding him to the Wheel    ###
-###      Deleting user              ###     
-#######################################
+###############################################
+### Author: Martin Hradsky                  ###
+### MITRE ID: T1531                         ###
+### Test steps:                             ###
+###      Creating User                      ###
+###      Adding him to the Wheel gropu      ###
+###      Deleting user                      ###     
+###############################################
 
 
 # Step 1: Create user
